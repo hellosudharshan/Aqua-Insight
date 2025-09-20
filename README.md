@@ -9,6 +9,8 @@
 
  Check out our working dashboard at https://9000-firebase-studio-1755940710673.cluster-ulqnojp5endvgve6krhe7klaws.cloudworkstations.dev 
 
+ Check Out Our Detailed idealogy and Working : https://drive.google.com/file/d/10EAzVQF5Tghfnqe9HVfxL0885IWIH3Ga/view?usp=sharing 
+
 ***
 ### Problem Statement
 The world is facing a growing need for clean water. This issue is compounded by challenges like water wastage, contamination, and imbalances in pH and mineral levels. In India, there's a significant problem with water leakage and unsupervised water distribution, which leads to a substantial amount of water wastage. These issues are not only environmental but also major causes of health problems. While traditional water quality assessment methods are prone to error and time-consuming, there is a clear need for advanced, real-time monitoring systems. The lack of proper water tariff policies and a fragmented approach to water management also contributes to customer dissatisfaction and water loss from old, worn-out pipelines.
