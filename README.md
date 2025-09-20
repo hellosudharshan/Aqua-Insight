@@ -1,9 +1,11 @@
 # Aqua-Insight
 **Empowering Water Sustainability through Smart Monitoring and Automation**
 
-**Team**: Stark Matrix
-**Domain**: Smart City and Sustainability
+**Team**: Stark Matrix \n
+**Domain**: Smart City and Sustainability \n
 **Team Lead**: Sudharshan Vijay SK
+
+\n Check out our working dashboard at https://9000-firebase-studio-1755940710673.cluster-ulqnojp5endvgve6krhe7klaws.cloudworkstations.dev 
 
 ***
 ### Problem Statement
